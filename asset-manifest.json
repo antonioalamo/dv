@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dollar-history/static/css/main.2efccd3b.css",
-    "main.js": "/dollar-history/static/js/main.85162a1f.js",
-    "index.html": "/dollar-history/index.html",
-    "main.2efccd3b.css.map": "/dollar-history/static/css/main.2efccd3b.css.map",
-    "main.85162a1f.js.map": "/dollar-history/static/js/main.85162a1f.js.map"
+    "main.css": "/dv/static/css/main.2efccd3b.css",
+    "main.js": "/dv/static/js/main.85162a1f.js",
+    "index.html": "/dv/index.html",
+    "main.2efccd3b.css.map": "/dv/static/css/main.2efccd3b.css.map",
+    "main.85162a1f.js.map": "/dv/static/js/main.85162a1f.js.map"
   },
   "entrypoints": [
     "static/css/main.2efccd3b.css",
